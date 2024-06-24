@@ -1,4 +1,5 @@
 <!--
+
 author:   name last_name
 email:    training@vib.de
 version:  1.0.0
@@ -27,6 +28,7 @@ link:     https://raw.githubusercontent.com/vibbits/material-liascript/master/vi
 
 @tutor: Neuropixels
 @edition: 1st 
+
 -->
 
 # Course Title
