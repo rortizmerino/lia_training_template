@@ -129,6 +129,14 @@ Schedule day 1:
 - 15:15 - 15:30 - break
 - 15:30 - 17:00 - session
 
+## Chapters
+
+| Chapter | Title                              |
+| :---- | :------------------------------------------------  |
+| 1     | Organisation, Introduction to GitHub and LiaScript |
+| 2     | Software development as a process                  |
+| 3     | Elements of the Language C#                        |
+
 ## Installations
 
 Please read this page carefully **before** the start of the workshop.
