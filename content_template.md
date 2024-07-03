@@ -24,8 +24,8 @@ link:     https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@300&disp
 link:     https://fonts.googleapis.com/css2?family=Open+Sans&display=swap
 link:     https://raw.githubusercontent.com/vibbits/material-liascript/master/vib-styles.css
 
-@tutor: Neuropixels
-@edition: 1st 
+tutor: Neuropixels
+edition: 1st 
 
 -->
 
