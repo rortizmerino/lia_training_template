@@ -31,21 +31,28 @@ edition: 1st
 
 # Course Title
 
-<section>
 Hello and welcome to our @tutor workshop! We are very happy to have you here.
 
 This is the @edition edition of this workshop, jointly organised by the VIB and ELIXIR Belgium.
+
+<img src="./images/globes/41920.jpg" width="350" align="center"/>
+
+Example image to ilustrate the front page of the material. This image was [Designed by macrovector / Freepik](https://www.freepik.com/free-vector/globe-earth-world-icons-vector-white-black_10601425.htm#fromView=author&page=1&position=27&uuid=726a85e1-abc9-4f55-a242-bdb7cd5733f1)
 
 > We are using the interactive Open Educational Resource online/offline course infrastructure called LiaScript.
 > It is a distributed way of creating and sharing educational content hosted on github.
 > To see this document as an interactive LiaScript rendered version, click on the
 > following link/badge:
 >
-> [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/training_material_template/main/content_template.md)
+> [![LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/training_material_template/main/README.md#2)
+
+
+## Lesson overview
+<section>
 
 <i class="fa fa-lock"></i> **License:** [Creative Commons Attribution share alike 4.0 International  License](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 
-# General context
+## General context
 
 Welcome to our {{workshop_name}} workshop! We are very happy to have you here.
 
@@ -55,7 +62,7 @@ This is the {{workshop_edition}} edition of this workshop, jointly organised by 
 
 The **presentation** which goes alongside this material can be found [here](link).
 
-## Lesson overview
+
 
 >
 > <i class="fa fa-user"></i> **Target Audience:** Researchers, trainers, training providers
@@ -94,7 +101,7 @@ This course consist of .....
 
 <i class="fa fa-asterisk"></i> **Requirements:** The (technical) installation requirements are described in the [installations](https://vibbits-nextflow-workshop.readthedocs.io/en/latest/installations.html) section.
 
-## Chapters
+### Chapters List
 
 | Chapter | Title                                               |
 | :---- | :------------------------------------------------     |
@@ -129,14 +136,6 @@ This course consist of .....
 
 <i class="fa fa-anchor"></i> **PURL**:  
 
-## Citing this lesson
-
-Please cite as:
-
-  1. ...
-
-</section>
-
 ## Proposed Schedule
 
 Schedule day 1:
@@ -148,6 +147,14 @@ Schedule day 1:
 - 13:45 - 15:15 - session
 - 15:15 - 15:30 - break
 - 15:30 - 17:00 - session
+
+## Citing this lesson
+
+Please cite as:
+
+  1. ...
+
+</section>
 
 ## References
 
@@ -162,6 +169,13 @@ Here are some great tips for learning and to get inspired for writing your own p
 - Model example pipeline on Variant Calling Analysis with NGS RNA-Seq data developed by CRG ([link](https://github.com/CRG-CNAG/CalliNGS-NF))
 - Tutorial by Andrew Severin ([link](https://bioinformaticsworkbook.org/dataAnalysis/nextflow/02_creatingAworkflow.html#gsc.tab=0))
 - Nextflow community basic training ([link](https://training.nextflow.io/basic_training/))
+
+
+# Chapters
+
+## Chapter overview
+
+## [Chapter 01](link)
 
 --------------------------------------------
 
@@ -191,9 +205,3 @@ Technical Editors: Alexander Botzki
 
 License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 
-
-# Chapters
-
-## Chapter overview
-
-## [Chapter 01](link)
