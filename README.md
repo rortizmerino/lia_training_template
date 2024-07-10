@@ -45,9 +45,7 @@ This is the @edition edition of this workshop, jointly organised by the VIB and 
 
 <i class="fa fa-lock"></i> **License:** [Creative Commons Attribution share alike 4.0 International  License](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 
-### Lesson overview
-
-## General context
+# General context
 
 Welcome to our {{workshop_name}} workshop! We are very happy to have you here.
 
@@ -57,10 +55,13 @@ This is the {{workshop_edition}} edition of this workshop, jointly organised by 
 
 The **presentation** which goes alongside this material can be found [here](link).
 
+## Lesson overview
+
 >
 > <i class="fa fa-user"></i> **Target Audience:** Researchers, trainers, training providers
 >
-> <svg xmlns="http://www.w3.org/2000/svg" height="14" width="16" viewBox="0 0 576 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2023 Fonticons, Inc.--><path d="M384 64c0-17.7 14.3-32 32-32H544c17.7 0 32 14.3 32 32s-14.3 32-32 32H448v96c0 17.7-14.3 32-32 32H320v96c0 17.7-14.3 32-32 32H192v96c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32h96V320c0-17.7 14.3-32 32-32h96V192c0-17.7 14.3-32 32-32h96V64z"/></svg> **Level:** Beginner  
+>> <svg xmlns="http://www.w3.org/2000/svg" height="14" width="16" viewBox="0 0 576 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2023 Fonticons, Inc.--><path d="M384 64c0-17.7 14.3-32 32-32H544c17.7 0 32 14.3 32 32s-14.3 32-32 32H448v96c0 17.7-14.3 32-32 32H320v96c0 17.7-14.3 32-32 32H192v96c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32h96V320c0-17.7 14.3-32 32-32h96V192c0-17.7 14.3-32 32-32h96V64z"/></svg> **Level:** Beginner  
+>
 
 <i class="fa fa-arrow-left"></i> **Prerequisites**  
 To be able to follow this course, learners should have knowledge in:
@@ -116,11 +117,11 @@ This course consist of .....
 
 <i class="fa fa-money-bill"></i> **Funding:** This project has received funding from the ELIXIR Programme 2022-2023.
 
-### Authors
+## Authors
 
 @[orcid(Cagatay Aydin)](https://orcid.org/0000-0002-7216-1079),
 
-### Contributors
+## Contributors
 
 @[orcid(Asli Ayaz)](https://orcid.org/0000-0002-6276-2516)
 @[orcid(Kacper Kondrakiewicz)](https://orcid.org/0000-0003-2600-1418)
@@ -128,7 +129,7 @@ This course consist of .....
 
 <i class="fa fa-anchor"></i> **PURL**:  
 
-### Citing this lesson
+## Citing this lesson
 
 Please cite as:
 
@@ -136,7 +137,7 @@ Please cite as:
 
 </section>
 
-### Schedule
+## Proposed Schedule
 
 Schedule day 1:
 
@@ -191,3 +192,8 @@ Technical Editors: Alexander Botzki
 License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 
 
+# Chapters
+
+## Chapter overview
+
+## [Chapter 01](link)
