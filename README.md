@@ -32,9 +32,9 @@ orcid:    [@0](@1)<!--class="orcid-logo-for-author-list"-->
 
 # Course Title
 
-Hello and welcome to our @[tutor] workshop! We are very happy to have you here.
+Hello and welcome to our @tutor workshop! We are very happy to have you here.
 
-This is the @[edition] edition of this workshop, jointly organised by your organisation and ELIXIR.
+This is the @edition edition of this workshop, jointly organised by your organisation and ELIXIR.
 
 <img src="./images/globes/41920.jpg" width="350" align="center"/>
 
