@@ -128,7 +128,7 @@ This course consist of .....
 
 ## Authors
 
-@[orcid(Cagatay Aydin)](https://orcid.org/0000-0002-7216-1079),
+@[orcid](https://orcid.org/0000-0002-7216-1079)
 
 ## Contributors
 
