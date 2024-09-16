@@ -32,6 +32,8 @@ orcid:    [@0](@1)<!--class="orcid-logo-for-author-list"-->
 
 # Course Title
 
+<section>
+
 Hello and welcome to our @tutor workshop! We are very happy to have you here.
 
 This is the @edition edition of this workshop, jointly organised by your organisation and ELIXIR.
@@ -66,6 +68,8 @@ Schedule day 1:
 - 13:45 - 15:15 - session
 - 15:15 - 15:30 - break
 - 15:30 - 17:00 - session
+
+</section>
 
 # Lesson overview
 
@@ -117,6 +121,7 @@ Schedule day 1:
 > <i class="fa fa-money-bill"></i> **Funding:** This project has received funding from the ELIXIR Programme 2022-2023.
 >
 > <i class="fa fa-anchor"></i> **PURL**:  
+
 
 # Authors and Contributors
 
