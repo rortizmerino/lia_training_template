@@ -33,9 +33,9 @@ edition: 1st
 
 # Course Title
 
-Hello and welcome to our @tutor workshop! We are very happy to have you here.
+Hello and welcome to our @[tutor] workshop! We are very happy to have you here.
 
-This is the @edition edition of this workshop, jointly organised by the VIB and ELIXIR Belgium.
+This is the @[edition] edition of this workshop, jointly organised by your organisation and ELIXIR.
 
 <img src="./images/globes/41920.jpg" width="350" align="center"/>
 
@@ -46,13 +46,7 @@ Example image to ilustrate the front page of the material. This image was [Desig
 > To see this document as an interactive LiaScript rendered version, click on the
 > following link/badge:
 >
-> [![LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/training_material_template/main/README.md#2)
-
-
-## Lesson overview
-<section>
-
-<i class="fa fa-lock"></i> **License:** [Creative Commons Attribution share alike 4.0 International  License](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+> [LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/training_material_template/main/README.md)
 
 ## General context
 
@@ -64,24 +58,34 @@ This is the {{workshop_edition}} edition of this workshop, jointly organised by 
 
 The **presentation** which goes alongside this material can be found [here](link).
 
+## Proposed Schedule
 
+Schedule day 1:
 
+- 9:30 - 11:00 - session
+- 11:00 - 11:15 - break
+- 11:15 - 12:45 - session
+- 12:45 - 13:45 - lunch
+- 13:45 - 15:15 - session
+- 15:15 - 15:30 - break
+- 15:30 - 17:00 - session
+
+# Lesson overview
+
+> <i class="fa fa-lock"></i> **License:** [Creative Commons Attribution share alike 4.0 International  License](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 >
 > <i class="fa fa-user"></i> **Target Audience:** Researchers, trainers, training providers
 >
->> <svg xmlns="http://www.w3.org/2000/svg" height="14" width="16" viewBox="0 0 576 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2023 Fonticons, Inc.--><path d="M384 64c0-17.7 14.3-32 32-32H544c17.7 0 32 14.3 32 32s-14.3 32-32 32H448v96c0 17.7-14.3 32-32 32H320v96c0 17.7-14.3 32-32 32H192v96c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32h96V320c0-17.7 14.3-32 32-32h96V192c0-17.7 14.3-32 32-32h96V64z"/></svg> **Level:** Beginner  
+> <svg xmlns="http://www.w3.org/2000/svg" height="14" width="16" viewBox="0 0 576 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2023 Fonticons, Inc.--><path d="M384 64c0-17.7 14.3-32 32-32H544c17.7 0 32 14.3 32 32s-14.3 32-32 32H448v96c0 17.7-14.3 32-32 32H320v96c0 17.7-14.3 32-32 32H192v96c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32h96V320c0-17.7 14.3-32 32-32h96V192c0-17.7 14.3-32 32-32h96V64z"/></svg> **Level:** Beginner  
 >
-
-<i class="fa fa-arrow-left"></i> **Prerequisites**  
-To be able to follow this course, learners should have knowledge in:
-
-1. Basic knowlegde of HTML  
-2. Basic knowledge of ...
-3. Being comfortable working with ....  
-
-<i class="fa fa-bookmark"></i> **Description**  
-This course consist of .....
-
+> <i class="fa fa-arrow-left"></i> **Prerequisites**  
+> To be able to follow this course, learners should have knowledge in:
+> 
+> 1. Basic knowlegde of HTML  
+> 2. Basic knowledge of ...
+> 3. Being comfortable working with ....  
+>
+> <i class="fa fa-bookmark"></i> **Description**  This course consist of .....
 > <i class="fa fa-arrow-right"></i> **Learning Outcomes:**  
 > By the end of the course, learners will be able to:
 >
@@ -97,58 +101,37 @@ This course consist of .....
 >
 > 6. Create and integrate ..... [Creating]
 >
-> Check more about [Bloom's taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) to categorize the levels in educational goals
+>> Check more about [Bloom's taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) to categorize the levels in educational goals
+>
+> <i class="fa fa-hourglass"></i> **Time estimation**: 120 minutes
+>
+> <i class="fa fa-asterisk"></i> **Requirements:** The (technical) installation requirements are described in the [installations](https://vibbits-nextflow-workshop.readthedocs.io/en/latest/installations.html) section.
+>
+> <i class="fa fa-envelope-open-text"></i> **Supporting Materials**:
+> 
+> 1. [Exercises and solutions](https://github.com/vibbits/nextflow-workshop)
+> 2. [Slides]()  
+> 
+> <i class="fa fa-life-ring"></i> **Acknowledgement**:
+>
+> * [ELIXIR Belgium](https://www.elixir-belgium.org/)
+> * [VIB Technologies](https://www.vib.be/)
+>
+> <i class="fa fa-money-bill"></i> **Funding:** This project has received funding from the ELIXIR Programme 2022-2023.
+>
+> <i class="fa fa-anchor"></i> **PURL**:  
 
-<i class="fa fa-hourglass"></i> **Time estimation**: 120 minutes
+# Authors and Contributors
 
-<i class="fa fa-asterisk"></i> **Requirements:** The (technical) installation requirements are described in the [installations](https://vibbits-nextflow-workshop.readthedocs.io/en/latest/installations.html) section.
+Authors
 
-### Chapters List
+- [Name](@[orcid](https://orcid.org/XXXX)
 
-| Chapter | Title                                               |
-| :---- | :------------------------------------------------     |
-| 0     | Get ready for the course, instalation and pre-reading |
-| 1     | Chapter title                                         |
-| 2     | Chapter title                                         |
-| 3     | Chapter title                                         |
+Contributors
 
-
-<i class="fa fa-envelope-open-text"></i> **Supporting Materials**:
-
-1. [Exercises and solutions](https://github.com/vibbits/nextflow-workshop)
-2. [Slides]()  
-
-<i class="fa fa-life-ring"></i> **Acknowledgement**:
-
-* [ELIXIR Belgium](https://www.elixir-belgium.org/)
-* [VIB Technologies](https://www.vib.be/)
-* [BioLizard](https://www.lizard.bio)
-
-<i class="fa fa-money-bill"></i> **Funding:** This project has received funding from the ELIXIR Programme 2022-2023.
-
-## Authors
-
-@[orcid](https://orcid.org/0000-0002-7216-1079)
-
-## Contributors
-
-@[orcid(Asli Ayaz)](https://orcid.org/0000-0002-6276-2516)
-@[orcid(Kacper Kondrakiewicz)](https://orcid.org/0000-0003-2600-1418)
-@[orcid(Asli Ayaz)](https://orcid.org/0000-0003-4477-6620)
-
-<i class="fa fa-anchor"></i> **PURL**:  
-
-## Proposed Schedule
-
-Schedule day 1:
-
-- 9:30 - 11:00 - session
-- 11:00 - 11:15 - break
-- 11:15 - 12:45 - session
-- 12:45 - 13:45 - lunch
-- 13:45 - 15:15 - session
-- 15:15 - 15:30 - break
-- 15:30 - 17:00 - session
+- [Name](@[orcid](https://orcid.org/XXXY)
+- [Name](@[orcid](https://orcid.org/XXXZ)
+- [Name](@[orcid](https://orcid.org/XXXA)
 
 ## Citing this lesson
 
@@ -156,9 +139,17 @@ Please cite as:
 
   1. ...
 
-</section>
+# Chapters List
 
-## References
+| Chapter | Title                                                   |
+| :---- | :------------------------------------------------         |
+| 0     | [Get ready for the course, instalation and pre-reading](link) |
+| 1     | [Chapter title](link)                                             |
+| 2     | [Chapter title](link)                                             |
+| 3     | [Chapter title](link)                                             |
+
+
+# References
 
 Here are some great tips for learning and to get inspired for writing your own pipelines:
 
@@ -172,14 +163,7 @@ Here are some great tips for learning and to get inspired for writing your own p
 - Tutorial by Andrew Severin ([link](https://bioinformaticsworkbook.org/dataAnalysis/nextflow/02_creatingAworkflow.html#gsc.tab=0))
 - Nextflow community basic training ([link](https://training.nextflow.io/basic_training/))
 
-
-# Chapters
-
-## Chapter overview
-
-## [Chapter 01](link)
-
---------------------------------------------
+# About us
 
 *About ELIXIR Training Platform*
 
