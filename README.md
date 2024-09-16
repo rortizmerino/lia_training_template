@@ -47,6 +47,7 @@ Example image to ilustrate the front page of the material. This image was [Desig
 > following link/badge:
 >
 > [LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/training_material_template/main/README.md)
+>
 
 ## General context
 
@@ -57,6 +58,7 @@ This is the {{workshop_edition}} edition of this workshop, jointly organised by 
 - The first session (12 & 13 October 2023) is dedicated to Containers (Docker & Singularity) which are great tools for code portability and reproducibility of your analysis. You will learn how to use containers and how to build a container from scratch, share it with others and how to re-use and modify existing containers.
 
 The **presentation** which goes alongside this material can be found [here](link).
+
 
 ## Proposed Schedule
 
@@ -69,6 +71,7 @@ Schedule day 1:
 - 13:45 - 15:15 - session
 - 15:15 - 15:30 - break
 - 15:30 - 17:00 - session
+
 
 # Lesson overview
 
