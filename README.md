@@ -1,5 +1,4 @@
 <!--
-
 author:   name last_name
 email:    training@vib.de
 version:  1.0.0
@@ -24,11 +23,10 @@ link:     https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@300&disp
 link:     https://fonts.googleapis.com/css2?family=Open+Sans&display=swap
 link:     https://raw.githubusercontent.com/vibbits/material-liascript/master/vib-styles.css
 
-orcid: [@0](@1)<!--class="orcid-logo-for-author-list"-->
-
 tutor: Neuropixels
 edition: 1st 
 
+orcid: [@0](@1)<!--class="orcid-logo-for-author-list"-->
 -->
 
 # Course Title
