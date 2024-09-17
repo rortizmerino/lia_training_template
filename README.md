@@ -87,6 +87,7 @@ Schedule day 1:
 > 3. Being comfortable working with ....  
 >
 > <i class="fa fa-bookmark"></i> **Description**  This course consist of .....
+> 
 > <i class="fa fa-arrow-right"></i> **Learning Outcomes:**  
 > By the end of the course, learners will be able to:
 >
