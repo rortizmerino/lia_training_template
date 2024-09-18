@@ -44,7 +44,7 @@ edition:  1st
 orcid:    [@0](@1)<!--class="orcid-logo-for-author-list"-->
 -->
 
-# Course Title
+# Beer basics
 
 ```json   @JSONLD
 {
@@ -84,7 +84,7 @@ orcid:    [@0](@1)<!--class="orcid-logo-for-author-list"-->
   ]
 }
 ```
-# Title Slide
+# Beer basics
 
 - What is beer?
 - What are the main beer types?
