@@ -21,7 +21,7 @@ link:     https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@300&disp
 link:     https://fonts.googleapis.com/css2?family=Open+Sans&display=swap
 link:     https://raw.githubusercontent.com/vibbits/material-liascript/master/vib-styles.css
 
-tutor:    Neuropixels
+tutor:    Beer
 edition:  1st 
 
 @JSONLD
@@ -109,7 +109,7 @@ This is the {{workshop_edition}} edition of this workshop, jointly organised by 
 
 - The first session (12 & 13 October 2023) is dedicated to Containers (Docker & Singularity) which are great tools for code portability and reproducibility of your analysis. You will learn how to use containers and how to build a container from scratch, share it with others and how to re-use and modify existing containers.
 
-The **presentation** which goes alongside this material can be found [here](link).
+The **presentation** which goes alongside this material can be found [here](https://liascript.github.io/course/?https://raw.githubusercontent.com/rortizmerino/lia_training_template/main/README.md#1).
 
 ## Proposed Schedule
 
