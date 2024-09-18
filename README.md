@@ -103,11 +103,11 @@ Example image to ilustrate the front page of the material. This image was [Desig
 
 ## General context
 
-Welcome to our {{workshop_name}} workshop! We are very happy to have you here.
+Welcome to our beer workshop! We are very happy to have you here.
 
-This is the {{workshop_edition}} edition of this workshop, jointly organised by the VIB Bioinformatics Core and ELIXIR Belgium.
+This is the 1st edition of this workshop!
 
-- The first session (12 & 13 October 2023) is dedicated to Containers (Docker & Singularity) which are great tools for code portability and reproducibility of your analysis. You will learn how to use containers and how to build a container from scratch, share it with others and how to re-use and modify existing containers.
+- The first session (18 & 19 September 2024) is dedicated to development and practice.
 
 The **presentation** which goes alongside this material can be found [here](https://liascript.github.io/course/?https://raw.githubusercontent.com/rortizmerino/lia_training_template/main/presentation.md#1).
 
