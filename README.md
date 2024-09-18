@@ -109,7 +109,7 @@ This is the {{workshop_edition}} edition of this workshop, jointly organised by 
 
 - The first session (12 & 13 October 2023) is dedicated to Containers (Docker & Singularity) which are great tools for code portability and reproducibility of your analysis. You will learn how to use containers and how to build a container from scratch, share it with others and how to re-use and modify existing containers.
 
-The **presentation** which goes alongside this material can be found [here](https://liascript.github.io/course/?https://raw.githubusercontent.com/rortizmerino/lia_training_template/main/README.md#1).
+The **presentation** which goes alongside this material can be found [here](https://liascript.github.io/course/?https://raw.githubusercontent.com/rortizmerino/lia_training_template/main/presentation.md#1).
 
 ## Proposed Schedule
 
