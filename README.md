@@ -113,15 +113,12 @@ The **presentation** which goes alongside this material can be found [here](http
 
 ## Proposed Schedule
 
-Schedule day 1:
-
-- 9:30 - 11:00 - session
-- 11:00 - 11:15 - break
-- 11:15 - 12:45 - session
-- 12:45 - 13:45 - lunch
-- 13:45 - 15:15 - session
-- 15:15 - 15:30 - break
-- 15:30 - 17:00 - session
+Schedule:
+- What is beer?
+- What are the main beer types?
+- What is a lager?
+- What is an ale?
+- What other types are possible?
 
 </section>
 
@@ -134,34 +131,30 @@ Schedule day 1:
 > <svg xmlns="http://www.w3.org/2000/svg" height="14" width="16" viewBox="0 0 576 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2023 Fonticons, Inc.--><path d="M384 64c0-17.7 14.3-32 32-32H544c17.7 0 32 14.3 32 32s-14.3 32-32 32H448v96c0 17.7-14.3 32-32 32H320v96c0 17.7-14.3 32-32 32H192v96c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32h96V320c0-17.7 14.3-32 32-32h96V192c0-17.7 14.3-32 32-32h96V64z"/></svg> **Level:** Beginner  
 >
 > <i class="fa fa-arrow-left"></i> **Prerequisites**  
-> To be able to follow this course, learners should have knowledge in:
-> 
-> 1. Basic knowlegde of HTML  
-> 2. Basic knowledge of ...
-> 3. Being comfortable working with ....  
+> To be able to follow this course, there are no prerequisites 
 >
-> <i class="fa fa-bookmark"></i> **Description**  This course consist of .....
+> <i class="fa fa-bookmark"></i> **Description**  This course consist of 3 slides
 > 
 > <i class="fa fa-arrow-right"></i> **Learning Outcomes:**  
 > By the end of the course, learners will be able to:
 >
-> 1. Define what ..... [Remembering] 
+> 1. Define what is beer..... [Remembering] 
 >
-> 2. Discuss and explain ..... [Understanding] 
+> 2. Discuss and explain what are the main beer styles..... [Understanding] 
 >
-> 3. Apply and modify ..... [Applying] 
+> 3. Be able to talk to beer snobs about beer..... [Applying] 
 >
-> 4. Compare ..... [Analysing] 
+> 4. Compare one beer style to another ..... [Analysing] 
 >
-> 5. Evaluate and select ..... [Evaluating] 
+> 5. Evaluate and select beers from a wide selection ..... [Evaluating] 
 >
-> 6. Create and integrate ..... [Creating]
+> 6. Create and integrate a quick beer snob conversation ..... [Creating]
 >
 >> Check more about [Bloom's taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) to categorize the levels in educational goals
 >
-> <i class="fa fa-hourglass"></i> **Time estimation**: 120 minutes
+> <i class="fa fa-hourglass"></i> **Time estimation**: 5 minutes
 >
-> <i class="fa fa-asterisk"></i> **Requirements:** The (technical) installation requirements are described in the [installations](https://vibbits-nextflow-workshop.readthedocs.io/en/latest/installations.html) section.
+> <i class="fa fa-asterisk"></i> **Requirements:** No technical installation needed.
 >
 > <i class="fa fa-envelope-open-text"></i> **Supporting Materials**:
 > 
