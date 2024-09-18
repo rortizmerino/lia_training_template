@@ -1,17 +1,14 @@
 <!--
 
-author:   name last_name
-email:    training@vib.de
-version:  2.0.0
+author:   Raul Ortiz
+email:    raul.ortiz@tudelft,nl
+version:  0.0.1
 language: en
 narrator: UK English Female
 
-icon:     https://vib.be/sites/vib.sites.vib.be/files/logo_VIB_noTagline.svg
+icon:     
 
-comment:  This document shall provide an entire compendium and course on the
-          development of Open-courSes with [LiaScript](https://LiaScript.github.io).
-          As the language and the systems grows, also this document will be updated.
-          Feel free to fork or copy it, translations are very welcome...
+comment:  This document shall provide an example built with [LiaScript](https://LiaScript.github.io).
 
 script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
           https://felixhao28.github.io/JSCPP/dist/JSCPP.es5.min.js
@@ -58,16 +55,15 @@ orcid:    [@0](@1)<!--class="orcid-logo-for-author-list"-->
     "@type": "CreativeWork",
     "@id": "https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE"
   },
-  "description": "TeSS, how can I help you? This is our interactive hands-on course about efficient use of the ELIXIR TeSS platform.",
-  "keywords": "FAIR, OPEN, Bioinformatics, Teaching, TeSS",
+  "description": "TeSS, how can I help you? This is our interactive hands-on course about beer",
+  "keywords": "FAIR, OPEN, Teaching, beer",
   "name": "TeSS, how can I help you?",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "educationalLevel": "beginner",
   "competencyRequired": "none",
   "teaches": [
-    "search events and material in TeSS via direct and faceted search",
-    "add manually and automatically events and material to TeSS",
-    "extract events and material from TeSS by using TeSS widgets"
+    "What is beer",
+    "Main beer styles"
   ],
   "audience": "training providers",
   "inLanguage": "en-US",
@@ -77,29 +73,13 @@ orcid:    [@0](@1)<!--class="orcid-logo-for-author-list"-->
   "author": [
     {
       "@type": "Person",
-      "name": "Bruna Piereck"
-    },
-    {
-      "@type": "Person",
-      "name": "Olivier Sand"
-    },
-    {
-      "@type": "Person",
-      "name": "Alexander Botzki"
+      "name": "Raul Ortiz"
     }
   ],
   "contributor": [
     {
       "@type": "Person",
-      "name": "Yasmine Maes"
-    },
-    {
-      "@type": "Person",
-      "name": "Finn Bacall"
-    },
-    {
-      "@type": "Person",
-      "name": "Munazah Andrabi"
+      "name": "Raul Ortiz"
     }
   ]
 }
