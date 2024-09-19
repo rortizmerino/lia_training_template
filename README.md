@@ -206,8 +206,13 @@ Here are some great tips for learning and to get inspired:
 # About us
 
 
-
 --------------------------------------------
+
+*Editorial team for this course*
+
+Template authors: @[orcid(Alexander Botzki)](https://orcid.org/0000-0001-6691-4233), @[orcid(Bruna Piereck)](https://orcid.org/0000-0001-5958-0669)
+
+Technical Editors: Alexander Botzki
 
 License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 
