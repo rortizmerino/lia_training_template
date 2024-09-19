@@ -92,10 +92,6 @@ Hello and welcome to our @tutor workshop! We are very happy to have you here.
 
 This is the @edition edition of this workshop, jointly organised by your organisation and ELIXIR.
 
-<img src="./images/globes/41920.jpg" width="350" align="center"/>
-
-Example image to ilustrate the front page of the material. This image was [Designed by macrovector / Freepik](https://www.freepik.com/free-vector/globe-earth-world-icons-vector-white-black_10601425.htm#fromView=author&page=1&position=27&uuid=726a85e1-abc9-4f55-a242-bdb7cd5733f1)
-
 > We are using the interactive Open Educational Resource online/offline course infrastructure called LiaScript.
 > It is a distributed way of creating and sharing educational content hosted on github.
 > To see this document as an interactive LiaScript rendered version, click on the
@@ -180,11 +176,11 @@ Schedule:
 
 Authors
 
-- [Name](@[orcid](https://orcid.org/XXXX)
+- [Raul Ortiz](@[orcid](https://orcid.org/0000-0003-4186-8941)
 
 Contributors
 
-- [Name](@[orcid](https://orcid.org/XXXY))
+- [Raul Ortiz](@[orcid](https://orcid.org/0000-0003-4186-8941))
 
 ## Citing this lesson
 
@@ -197,10 +193,11 @@ Please cite as:
 | Chapter | Title                                                   |
 | :---- | :------------------------------------------------         |
 | 0     | [Get ready for the course, instalation and pre-reading](link) |
-| 1     | [Chapter title](link)                                             |
-| 2     | [Chapter title](link)                                             |
-| 3     | [Chapter title](link)                                             |
-
+| 1     | [What is beer?](https://liascript.github.io/course/?https://raw.githubusercontent.com/rortizmerino/lia_training_template/main/presentation.md#3)                                             |
+| 2     | [What are the main beer types?](https://liascript.github.io/course/?https://raw.githubusercontent.com/rortizmerino/lia_training_template/main/presentation.md#4)                                             |
+| 3     | [What is a lager?](https://liascript.github.io/course/?https://raw.githubusercontent.com/rortizmerino/lia_training_template/main/presentation.md#5)                                             |
+| 4     | [What is an ale?](https://liascript.github.io/course/?https://raw.githubusercontent.com/rortizmerino/lia_training_template/main/presentation.md#6)    
+| 5     | [What other types are possible](https://liascript.github.io/course/?https://raw.githubusercontent.com/rortizmerino/lia_training_template/main/presentation.md#7)    
 
 # References
 
