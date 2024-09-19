@@ -94,18 +94,38 @@ orcid:    [@0](@1)<!--class="orcid-logo-for-author-list"-->
 
 # What is beer?
 
+Beer is a fermented beverage made from the following main components:
 
+- Water
+- Malt
+- Hops
+- Yeast  
 
 # What are the main beer types?
 
+Beers can be classified mainly classified in:
 
+- Lagers
+- Ales
 
 # What is a lager?
 
+Main characteristics of lagers include:
 
+- Top fermentation
+- Low brewing temperature (0-2 C)
+- hybrid yeast (Saccharomyces cerevisiae x S. eubayanus)
 
 # What is an ale?
 
-
+- Bottom fermentation
+- High brewing temperature (20-22 C)
+- (mostly) pure yeast (S. cerevisiae)
 
 # What other types are possible?
+
+- Spontaneous fermentation
+-- Diverse microorganisms (yeast + lactic acid bacteria)
+
+- Additional ingredients
+-- Wheat, spices, fruit(s)
