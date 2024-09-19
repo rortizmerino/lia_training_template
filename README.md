@@ -55,9 +55,9 @@ orcid:    [@0](@1)<!--class="orcid-logo-for-author-list"-->
     "@type": "CreativeWork",
     "@id": "https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE"
   },
-  "description": "TeSS, how can I help you? This is our interactive hands-on course about beer",
+  "description": "Beer basics",
   "keywords": "FAIR, OPEN, Teaching, beer",
-  "name": "TeSS, how can I help you?",
+  "name": "Beer basics",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "educationalLevel": "beginner",
   "competencyRequired": "none",
