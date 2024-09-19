@@ -159,8 +159,7 @@ Schedule:
 >
 > <i class="fa fa-envelope-open-text"></i> **Supporting Materials**:
 > 
-> 1. [Exercises and solutions](https://github.com/vibbits/nextflow-workshop)
-> 2. [Slides]()  
+> 1. [Slides](https://liascript.github.io/course/?https://raw.githubusercontent.com/rortizmerino/lia_training_template/main/presentation.md#1)  
 > 
 > <i class="fa fa-life-ring"></i> **Acknowledgement**:
 >
@@ -176,7 +175,7 @@ Schedule:
 
 Authors
 
-- [Raul Ortiz](@[orcid](https://orcid.org/0000-0003-4186-8941)
+- [Raul Ortiz](@[orcid](https://orcid.org/0000-0003-4186-8941))
 
 Contributors
 
