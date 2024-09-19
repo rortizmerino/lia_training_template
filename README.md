@@ -185,7 +185,7 @@ Contributors
 
 Please cite as:
 
-  1. ...
+  1. [![DOI](https://sandbox.zenodo.org/badge/859291844.svg)](https://handle.stage.datacite.org/10.5072/zenodo.110866)
 
 # Chapters List
 
